@@ -2,6 +2,6 @@
 - 👀 Passionate about Database Management and SQL, and always eager to explore innovative tech solutions.
 - 🌱 Currently diving deep into advanced Python for data analytics and machine learning.
 - 💞️ Excited to collaborate on open-source projects in databases, backend development, and data science.
-- 📫 Let's connect! Reach me via [Your Email or LinkedIn Profile]
+- 📫 Let's connect! Reach me via "https://www.linkedin.com/in/harsh-bhardwaj-b45a7b184/"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fusing technology with creativity to craft unique solutions for complex problems.
